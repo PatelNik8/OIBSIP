@@ -26,22 +26,8 @@ Each task follows a structured data science workflow including data preprocessin
 
 ---
 
-## Repository Structure
-OIBSIP/
-│
-├── data/
-│ ├── task2/
-│ ├── task3/
-│ ├── task4/
-│ └── task5/
-│
-├── notebooks/
-│ ├── task2_unemployment_analysis.ipynb
-│ ├── task3_car_price_prediction.ipynb
-│ ├── task4_email_spam_detection.ipynb
-│ └── task5_sales_prediction.ipynb
-│
-└── README.md
+##  Repository Structure
+
 
 
 
